@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Muh Fadjar Rhomadoni\\Documents\\Kuliah\\S6\\PBKK\\KalkulatorSederhana\\KalkulatorSederhana.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Muh Fadjar Rhomadoni\\Documents\\Kuliah\\S6\\PBKK\\KalkulatorSederhana\\KalkulatorSederhana.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Muh Fadjar Rhomadoni\\Documents\\Kuliah\\S6\\PBKK\\KalkulatorSederhana\\KalkulatorSederhana.csproj",
+        "projectName": "KalkulatorSederhana",
+        "projectPath": "C:\\Users\\Muh Fadjar Rhomadoni\\Documents\\Kuliah\\S6\\PBKK\\KalkulatorSederhana\\KalkulatorSederhana.csproj",
+        "packagesPath": "C:\\Users\\Muh Fadjar Rhomadoni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muh Fadjar Rhomadoni\\Documents\\Kuliah\\S6\\PBKK\\KalkulatorSederhana\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Muh Fadjar Rhomadoni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
