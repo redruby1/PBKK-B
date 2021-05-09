@@ -1,0 +1,11 @@
+C:\Users\Muh Fadjar Rhomadoni\Documents\Kuliah\S6\PBKK\ETS\bin\Debug\ETS.exe.config
+C:\Users\Muh Fadjar Rhomadoni\Documents\Kuliah\S6\PBKK\ETS\bin\Debug\ETS.exe
+C:\Users\Muh Fadjar Rhomadoni\Documents\Kuliah\S6\PBKK\ETS\bin\Debug\ETS.pdb
+C:\Users\Muh Fadjar Rhomadoni\Documents\Kuliah\S6\PBKK\ETS\obj\Debug\ETS.csprojAssemblyReference.cache
+C:\Users\Muh Fadjar Rhomadoni\Documents\Kuliah\S6\PBKK\ETS\obj\Debug\ETS.Transaksi.resources
+C:\Users\Muh Fadjar Rhomadoni\Documents\Kuliah\S6\PBKK\ETS\obj\Debug\ETS.Properties.Resources.resources
+C:\Users\Muh Fadjar Rhomadoni\Documents\Kuliah\S6\PBKK\ETS\obj\Debug\ETS.csproj.GenerateResource.cache
+C:\Users\Muh Fadjar Rhomadoni\Documents\Kuliah\S6\PBKK\ETS\obj\Debug\ETS.csproj.CoreCompileInputs.cache
+C:\Users\Muh Fadjar Rhomadoni\Documents\Kuliah\S6\PBKK\ETS\obj\Debug\ETS.exe
+C:\Users\Muh Fadjar Rhomadoni\Documents\Kuliah\S6\PBKK\ETS\obj\Debug\ETS.pdb
+C:\Users\Muh Fadjar Rhomadoni\Documents\Kuliah\S6\PBKK\ETS\obj\Debug\ETS.Laporan.resources
